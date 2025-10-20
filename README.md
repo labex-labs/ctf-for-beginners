@@ -29,23 +29,13 @@ In this course, you'll dive into the exciting world of Capture The Flag (CTF) ch
 |      09 | 🎯 🆓 Network Service Exploit        | Beginner     | <a target='_blank' href='https://labex.io/labs/linux-network-service-exploit-596221'>Start Challenge</a>        |
 |      10 | 🎯 🆓 Basic Web Input Vulnerability  | Beginner     | <a target='_blank' href='https://labex.io/labs/linux-basic-web-input-vulnerability-596216'>Start Challenge</a>  |
 
-## Environment
+## About LabEx
 
-LabEx is an interactive, hands-on learning platform dedicated to coding and technology. It combines labs, AI assistance, and virtual machines to provide a no-video, practical learning experience.
-
-![](https://tutorial-screenshot.getvm.io/images/vm-1725247253.png)
-
-- A strict "Learn by Doing" approach with exclusive hands-on labs and no videos.
-- Interactive online environments within the browser, with automated step-by-step checks.
-- A structured content organization with the Skill Tree based learning system.
-- A growing learning resource of 30 Skill Trees and over 6,000 Labs.
-- The learning assistant Labby, built on lastest AI models, providing a conversational learning experience.
-
-Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
+LabEx is an interactive, hands-on learning platform dedicated to coding and technology. It combines labs, AI assistance, and virtual machines to provide a no-video, practical learning experience. With a strict 'Learn by Doing' approach, interactive online environments in the browser with automated step-by-step checks, structured content organization through the Skill Tree learning system, and a growing resource of 30 Skill Trees and over 6,000 Labs, LabEx offers comprehensive practical education. The platform includes Labby, an AI learning assistant built on latest AI models, providing a conversational learning experience.
 
 ## More
 
-- 🔗 [Linux Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Linux Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Linux Free Tutorials](https://github.com/labex-labs/linux-free-tutorials)
+- 🔗 [Cybersecurity Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Cybersecurity Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Cybersecurity Free Tutorials](https://github.com/labex-labs/cybersecurity-free-tutorials)
 
