@@ -16,22 +16,22 @@
 
 ## 练习
 
-|   序号 | 名称                    | 难度   | 练习                                                                                                        |
-|--------|-------------------------|--------|-------------------------------------------------------------------------------------------------------------|
-|     01 | 🎯 🆓 隐藏文件搜寻      | 初级   | <a target='_blank' href='https://labex.io/zh/labs/linux-hidden-file-hunt-596219'>开始挑战</a>               |
-|     02 | 🎯 🆓 弱密码访问        | 初级   | <a target='_blank' href='https://labex.io/zh/labs/linux-weak-password-access-596224'>开始挑战</a>           |
-|     03 | 🎯 🆓 开放端口发现      | 初级   | <a target='_blank' href='https://labex.io/zh/labs/linux-open-port-discovery-596222'>开始挑战</a>            |
-|     04 | 🎯 🆓 配置错误的权限    | 初级   | <a target='_blank' href='https://labex.io/zh/labs/linux-misconfigured-file-permissions-596218'>开始挑战</a> |
-|     05 | 🎯 🆓 日志文件秘密      | 初级   | <a target='_blank' href='https://labex.io/zh/labs/linux-log-file-secret-596220'>开始挑战</a>                |
-|     06 | 🎯 🆓 基础目录遍历      | 初级   | <a target='_blank' href='https://labex.io/zh/labs/linux-basic-directory-traversal-596215'>开始挑战</a>      |
-|     07 | 🎯 🆓 环境变量泄露      | 初级   | <a target='_blank' href='https://labex.io/zh/labs/linux-environment-variable-leak-596217'>开始挑战</a>      |
-|     08 | 🎯 🆓 简单脚本分析      | 初级   | <a target='_blank' href='https://labex.io/zh/labs/linux-simple-script-analysis-596223'>开始挑战</a>         |
-|     09 | 🎯 🆓 网络服务利用      | 初级   | <a target='_blank' href='https://labex.io/zh/labs/linux-network-service-exploit-596221'>开始挑战</a>        |
-|     10 | 🎯 🆓 基础 Web 输入漏洞 | 初级   | <a target='_blank' href='https://labex.io/zh/labs/linux-basic-web-input-vulnerability-596216'>开始挑战</a>  |
+|   序号 | 名称                    | 难度   | 练习                                                                                                                                 |
+|--------|-------------------------|--------|--------------------------------------------------------------------------------------------------------------------------------------|
+|     01 | 🎯 🆓 隐藏文件搜寻      | 初级   | <a target='_blank' href='https://labex.io/zh/labs/linux-hidden-file-hunt-596219?course=ctf-for-beginners'>开始挑战</a>               |
+|     02 | 🎯 🆓 弱密码访问        | 初级   | <a target='_blank' href='https://labex.io/zh/labs/linux-weak-password-access-596224?course=ctf-for-beginners'>开始挑战</a>           |
+|     03 | 🎯 🆓 开放端口发现      | 初级   | <a target='_blank' href='https://labex.io/zh/labs/linux-open-port-discovery-596222?course=ctf-for-beginners'>开始挑战</a>            |
+|     04 | 🎯 🆓 配置错误的权限    | 初级   | <a target='_blank' href='https://labex.io/zh/labs/linux-misconfigured-file-permissions-596218?course=ctf-for-beginners'>开始挑战</a> |
+|     05 | 🎯 🆓 日志文件秘密      | 初级   | <a target='_blank' href='https://labex.io/zh/labs/linux-log-file-secret-596220?course=ctf-for-beginners'>开始挑战</a>                |
+|     06 | 🎯 🆓 基础目录遍历      | 初级   | <a target='_blank' href='https://labex.io/zh/labs/linux-basic-directory-traversal-596215?course=ctf-for-beginners'>开始挑战</a>      |
+|     07 | 🎯 🆓 环境变量泄露      | 初级   | <a target='_blank' href='https://labex.io/zh/labs/linux-environment-variable-leak-596217?course=ctf-for-beginners'>开始挑战</a>      |
+|     08 | 🎯 🆓 简单脚本分析      | 初级   | <a target='_blank' href='https://labex.io/zh/labs/linux-simple-script-analysis-596223?course=ctf-for-beginners'>开始挑战</a>         |
+|     09 | 🎯 🆓 网络服务利用      | 初级   | <a target='_blank' href='https://labex.io/zh/labs/linux-network-service-exploit-596221?course=ctf-for-beginners'>开始挑战</a>        |
+|     10 | 🎯 🆓 基础 Web 输入漏洞 | 初级   | <a target='_blank' href='https://labex.io/zh/labs/linux-basic-web-input-vulnerability-596216?course=ctf-for-beginners'>开始挑战</a>  |
 
 ## 关于 LabEx
 
-LabEx 是一个专注于编程和技术的交互式动手学习平台。它结合了实验室、AI 辅助和虚拟机，提供无视频的实践学习体验。采用严格的'边学边做'方法，浏览器内的交互式在线环境具有自动化的逐步检查，基于技能树的结构化内容组织系统，以及不断增长的学习资源（包含 30 个技能树和超过 6,000 个实验），LabEx 提供全面的实践教育。该平台包含基于最新 AI 模型构建的学习助手 Labby，提供对话式学习体验。
+[LabEx](https://labex.io) 是一个专注于编程和技术的交互式动手学习平台。它结合了实验室、AI 辅助和虚拟机，提供无视频的实践学习体验。采用严格的'边学边做'方法，浏览器内的交互式在线环境具有自动化的逐步检查，基于技能树的结构化内容组织系统，以及不断增长的学习资源（包含 30 个技能树和超过 6,000 个实验），[LabEx](https://labex.io) 提供全面的实践教育。该平台包含基于最新 AI 模型构建的学习助手 Labby，提供对话式学习体验。
 
 ## 更多
 
