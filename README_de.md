@@ -16,22 +16,22 @@ In diesem Kurs tauchen Sie in die spannende Welt der Capture The Flag (CTF)-Hera
 
 ## Übungen
 
-|   Index | Name                                        | Schwierigkeit   | Übung                                                                                                                |
-|---------|---------------------------------------------|-----------------|----------------------------------------------------------------------------------------------------------------------|
-|      01 | 🎯 🆓 Jagd auf versteckte Dateien           | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/linux-hidden-file-hunt-596219'>Challenge Starten</a>               |
-|      02 | 🎯 🆓 Zugriff über schwaches Passwort       | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/linux-weak-password-access-596224'>Challenge Starten</a>           |
-|      03 | 🎯 🆓 Offene Ports entdecken                | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/linux-open-port-discovery-596222'>Challenge Starten</a>            |
-|      04 | 🎯 🆓 Fehlkonfigurierte Dateiberechtigungen | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/linux-misconfigured-file-permissions-596218'>Challenge Starten</a> |
-|      05 | 🎯 🆓 Log-Datei-Geheimnis                   | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/linux-log-file-secret-596220'>Challenge Starten</a>                |
-|      06 | 🎯 🆓 Grundlegender Verzeichnisdurchlauf    | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/linux-basic-directory-traversal-596215'>Challenge Starten</a>      |
-|      07 | 🎯 🆓 Umgebungsvariablen-Leak               | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/linux-environment-variable-leak-596217'>Challenge Starten</a>      |
-|      08 | 🎯 🆓 Einfache Skriptanalyse                | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/linux-simple-script-analysis-596223'>Challenge Starten</a>         |
-|      09 | 🎯 🆓 Netzwerkdienst-Exploit                | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/linux-network-service-exploit-596221'>Challenge Starten</a>        |
-|      10 | 🎯 🆓 Grundlegende Web-Input-Schwachstelle  | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/linux-basic-web-input-vulnerability-596216'>Challenge Starten</a>  |
+|   Index | Name                                        | Schwierigkeit   | Übung                                                                                                                                         |
+|---------|---------------------------------------------|-----------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
+|      01 | 🎯 🆓 Jagd auf versteckte Dateien           | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/linux-hidden-file-hunt-596219?course=ctf-for-beginners'>Challenge Starten</a>               |
+|      02 | 🎯 🆓 Zugriff über schwaches Passwort       | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/linux-weak-password-access-596224?course=ctf-for-beginners'>Challenge Starten</a>           |
+|      03 | 🎯 🆓 Offene Ports entdecken                | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/linux-open-port-discovery-596222?course=ctf-for-beginners'>Challenge Starten</a>            |
+|      04 | 🎯 🆓 Fehlkonfigurierte Dateiberechtigungen | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/linux-misconfigured-file-permissions-596218?course=ctf-for-beginners'>Challenge Starten</a> |
+|      05 | 🎯 🆓 Log-Datei-Geheimnis                   | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/linux-log-file-secret-596220?course=ctf-for-beginners'>Challenge Starten</a>                |
+|      06 | 🎯 🆓 Grundlegender Verzeichnisdurchlauf    | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/linux-basic-directory-traversal-596215?course=ctf-for-beginners'>Challenge Starten</a>      |
+|      07 | 🎯 🆓 Umgebungsvariablen-Leak               | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/linux-environment-variable-leak-596217?course=ctf-for-beginners'>Challenge Starten</a>      |
+|      08 | 🎯 🆓 Einfache Skriptanalyse                | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/linux-simple-script-analysis-596223?course=ctf-for-beginners'>Challenge Starten</a>         |
+|      09 | 🎯 🆓 Netzwerkdienst-Exploit                | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/linux-network-service-exploit-596221?course=ctf-for-beginners'>Challenge Starten</a>        |
+|      10 | 🎯 🆓 Grundlegende Web-Input-Schwachstelle  | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/linux-basic-web-input-vulnerability-596216?course=ctf-for-beginners'>Challenge Starten</a>  |
 
 ## Über LabEx
 
-LabEx ist eine interaktive, praktische Lernplattform für Programmierung und Technologie. Sie kombiniert Labore, KI-Unterstützung und virtuelle Maschinen für eine videofreie, praktische Lernerfahrung. Mit einem strikten 'Learning by Doing'-Ansatz, interaktiven Online-Umgebungen im Browser mit automatisierten Schritt-für-Schritt-Überprüfungen, strukturierter Inhaltsorganisation mit dem Skill-Tree-basierten System, und einer wachsenden Lernressource von 30 Skill Trees und über 6.000 Laboren, bietet LabEx umfassende praktische Bildung. Die Plattform umfasst den Lernassistenten Labby, aufgebaut auf den neuesten KI-Modellen, der eine konversationelle Lernerfahrung bietet.
+[LabEx](https://labex.io) ist eine interaktive, praktische Lernplattform für Programmierung und Technologie. Sie kombiniert Labore, KI-Unterstützung und virtuelle Maschinen für eine videofreie, praktische Lernerfahrung. Mit einem strikten 'Learning by Doing'-Ansatz, interaktiven Online-Umgebungen im Browser mit automatisierten Schritt-für-Schritt-Überprüfungen, strukturierter Inhaltsorganisation mit dem Skill-Tree-basierten System, und einer wachsenden Lernressource von 30 Skill Trees und über 6.000 Laboren, [LabEx](https://labex.io) bietet umfassende praktische Bildung. Die Plattform umfasst den Lernassistenten Labby, aufgebaut auf den neuesten KI-Modellen, der eine konversationelle Lernerfahrung bietet.
 
 ## Mehr
 
