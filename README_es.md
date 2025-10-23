@@ -16,22 +16,22 @@ En este curso, te sumergirás en el apasionante mundo de los desafíos Capture T
 
 ## Ejercicios
 
-|   Índice | Nombre                                     | Dificultad   | Práctica                                                                                                           |
-|----------|--------------------------------------------|--------------|--------------------------------------------------------------------------------------------------------------------|
-|       01 | 🎯 🆓 Búsqueda de Archivos Ocultos         | Principiante | <a target='_blank' href='https://labex.io/es/labs/linux-hidden-file-hunt-596219'>Iniciar Desafío</a>               |
-|       02 | 🎯 🆓 Acceso con Contraseña Débil          | Principiante | <a target='_blank' href='https://labex.io/es/labs/linux-weak-password-access-596224'>Iniciar Desafío</a>           |
-|       03 | 🎯 🆓 Descubrimiento de Puertos Abiertos   | Principiante | <a target='_blank' href='https://labex.io/es/labs/linux-open-port-discovery-596222'>Iniciar Desafío</a>            |
-|       04 | 🎯 🆓 Permisos de Archivo Mal Configuradas | Principiante | <a target='_blank' href='https://labex.io/es/labs/linux-misconfigured-file-permissions-596218'>Iniciar Desafío</a> |
-|       05 | 🎯 🆓 Secreto en Archivos de Registro      | Principiante | <a target='_blank' href='https://labex.io/es/labs/linux-log-file-secret-596220'>Iniciar Desafío</a>                |
-|       06 | 🎯 🆓 Recorrido Básico de Directorios      | Principiante | <a target='_blank' href='https://labex.io/es/labs/linux-basic-directory-traversal-596215'>Iniciar Desafío</a>      |
-|       07 | 🎯 🆓 Fuga de Variables de Entorno         | Principiante | <a target='_blank' href='https://labex.io/es/labs/linux-environment-variable-leak-596217'>Iniciar Desafío</a>      |
-|       08 | 🎯 🆓 Análisis de Script Sencillo          | Principiante | <a target='_blank' href='https://labex.io/es/labs/linux-simple-script-analysis-596223'>Iniciar Desafío</a>         |
-|       09 | 🎯 🆓 Explotación de Servicios de Red      | Principiante | <a target='_blank' href='https://labex.io/es/labs/linux-network-service-exploit-596221'>Iniciar Desafío</a>        |
-|       10 | 🎯 🆓 Vulnerabilidad Básica de Entrada Web | Principiante | <a target='_blank' href='https://labex.io/es/labs/linux-basic-web-input-vulnerability-596216'>Iniciar Desafío</a>  |
+|   Índice | Nombre                                     | Dificultad   | Práctica                                                                                                                                    |
+|----------|--------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+|       01 | 🎯 🆓 Búsqueda de Archivos Ocultos         | Principiante | <a target='_blank' href='https://labex.io/es/labs/linux-hidden-file-hunt-596219?course=ctf-for-beginners'>Iniciar Desafío</a>               |
+|       02 | 🎯 🆓 Acceso con Contraseña Débil          | Principiante | <a target='_blank' href='https://labex.io/es/labs/linux-weak-password-access-596224?course=ctf-for-beginners'>Iniciar Desafío</a>           |
+|       03 | 🎯 🆓 Descubrimiento de Puertos Abiertos   | Principiante | <a target='_blank' href='https://labex.io/es/labs/linux-open-port-discovery-596222?course=ctf-for-beginners'>Iniciar Desafío</a>            |
+|       04 | 🎯 🆓 Permisos de Archivo Mal Configuradas | Principiante | <a target='_blank' href='https://labex.io/es/labs/linux-misconfigured-file-permissions-596218?course=ctf-for-beginners'>Iniciar Desafío</a> |
+|       05 | 🎯 🆓 Secreto en Archivos de Registro      | Principiante | <a target='_blank' href='https://labex.io/es/labs/linux-log-file-secret-596220?course=ctf-for-beginners'>Iniciar Desafío</a>                |
+|       06 | 🎯 🆓 Recorrido Básico de Directorios      | Principiante | <a target='_blank' href='https://labex.io/es/labs/linux-basic-directory-traversal-596215?course=ctf-for-beginners'>Iniciar Desafío</a>      |
+|       07 | 🎯 🆓 Fuga de Variables de Entorno         | Principiante | <a target='_blank' href='https://labex.io/es/labs/linux-environment-variable-leak-596217?course=ctf-for-beginners'>Iniciar Desafío</a>      |
+|       08 | 🎯 🆓 Análisis de Script Sencillo          | Principiante | <a target='_blank' href='https://labex.io/es/labs/linux-simple-script-analysis-596223?course=ctf-for-beginners'>Iniciar Desafío</a>         |
+|       09 | 🎯 🆓 Explotación de Servicios de Red      | Principiante | <a target='_blank' href='https://labex.io/es/labs/linux-network-service-exploit-596221?course=ctf-for-beginners'>Iniciar Desafío</a>        |
+|       10 | 🎯 🆓 Vulnerabilidad Básica de Entrada Web | Principiante | <a target='_blank' href='https://labex.io/es/labs/linux-basic-web-input-vulnerability-596216?course=ctf-for-beginners'>Iniciar Desafío</a>  |
 
 ## Acerca de LabEx
 
-LabEx es una plataforma de aprendizaje interactiva y práctica dedicada a la programación y la tecnología. Combina laboratorios, asistencia de IA y máquinas virtuales para proporcionar una experiencia de aprendizaje práctica sin videos. Con un enfoque estricto de 'Aprender Haciendo', entornos en línea interactivos dentro del navegador con verificaciones paso a paso automatizadas, organización de contenido estructurada con el sistema basado en Árbol de Habilidades, y un recurso de aprendizaje en crecimiento de 30 Árboles de Habilidades y más de 6,000 Laboratorios, LabEx ofrece educación práctica integral. La plataforma incluye al asistente de aprendizaje Labby, construido sobre los últimos modelos de IA, que proporciona una experiencia de aprendizaje conversacional.
+[LabEx](https://labex.io) es una plataforma de aprendizaje interactiva y práctica dedicada a la programación y la tecnología. Combina laboratorios, asistencia de IA y máquinas virtuales para proporcionar una experiencia de aprendizaje práctica sin videos. Con un enfoque estricto de 'Aprender Haciendo', entornos en línea interactivos dentro del navegador con verificaciones paso a paso automatizadas, organización de contenido estructurada con el sistema basado en Árbol de Habilidades, y un recurso de aprendizaje en crecimiento de 30 Árboles de Habilidades y más de 6,000 Laboratorios, LabEx ofrece educación práctica integral. La plataforma incluye al asistente de aprendizaje Labby, construido sobre los últimos modelos de IA, que proporciona una experiencia de aprendizaje conversacional.
 
 ## Más
 
