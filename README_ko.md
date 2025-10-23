@@ -16,22 +16,22 @@
 
 ## 연습
 
-|   인덱스 | 이름                             | 난이도   | 연습                                                                                                         |
-|----------|----------------------------------|----------|--------------------------------------------------------------------------------------------------------------|
-|       01 | 🎯 🆓 숨겨진 파일 찾기           | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-hidden-file-hunt-596219'>도전 시작</a>               |
-|       02 | 🎯 🆓 약한 비밀번호 접근         | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-weak-password-access-596224'>도전 시작</a>           |
-|       03 | 🎯 🆓 열린 포트 탐색             | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-open-port-discovery-596222'>도전 시작</a>            |
-|       04 | 🎯 🆓 잘못 구성된 파일 권한      | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-misconfigured-file-permissions-596218'>도전 시작</a> |
-|       05 | 🎯 🆓 로그 파일 비밀             | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-log-file-secret-596220'>도전 시작</a>                |
-|       06 | 🎯 🆓 기본 디렉터리 탐색         | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-basic-directory-traversal-596215'>도전 시작</a>      |
-|       07 | 🎯 🆓 환경 변수 노출             | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-environment-variable-leak-596217'>도전 시작</a>      |
-|       08 | 🎯 🆓 간단한 스크립트 분석       | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-simple-script-analysis-596223'>도전 시작</a>         |
-|       09 | 🎯 🆓 네트워크 서비스 익스플로잇 | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-network-service-exploit-596221'>도전 시작</a>        |
-|       10 | 🎯 🆓 기본 웹 입력 취약점        | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-basic-web-input-vulnerability-596216'>도전 시작</a>  |
+|   인덱스 | 이름                             | 난이도   | 연습                                                                                                                                  |
+|----------|----------------------------------|----------|---------------------------------------------------------------------------------------------------------------------------------------|
+|       01 | 🎯 🆓 숨겨진 파일 찾기           | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-hidden-file-hunt-596219?course=ctf-for-beginners'>도전 시작</a>               |
+|       02 | 🎯 🆓 약한 비밀번호 접근         | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-weak-password-access-596224?course=ctf-for-beginners'>도전 시작</a>           |
+|       03 | 🎯 🆓 열린 포트 탐색             | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-open-port-discovery-596222?course=ctf-for-beginners'>도전 시작</a>            |
+|       04 | 🎯 🆓 잘못 구성된 파일 권한      | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-misconfigured-file-permissions-596218?course=ctf-for-beginners'>도전 시작</a> |
+|       05 | 🎯 🆓 로그 파일 비밀             | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-log-file-secret-596220?course=ctf-for-beginners'>도전 시작</a>                |
+|       06 | 🎯 🆓 기본 디렉터리 탐색         | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-basic-directory-traversal-596215?course=ctf-for-beginners'>도전 시작</a>      |
+|       07 | 🎯 🆓 환경 변수 노출             | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-environment-variable-leak-596217?course=ctf-for-beginners'>도전 시작</a>      |
+|       08 | 🎯 🆓 간단한 스크립트 분석       | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-simple-script-analysis-596223?course=ctf-for-beginners'>도전 시작</a>         |
+|       09 | 🎯 🆓 네트워크 서비스 익스플로잇 | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-network-service-exploit-596221?course=ctf-for-beginners'>도전 시작</a>        |
+|       10 | 🎯 🆓 기본 웹 입력 취약점        | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-basic-web-input-vulnerability-596216?course=ctf-for-beginners'>도전 시작</a>  |
 
 ## LabEx 소개
 
-LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입니다. 실험실, AI 지원 및 가상 머신을 결합하여 비디오 없는 실용적인 학습 경험을 제공합니다. 비디오 없는 독점적인 실습 실험실로 엄격한 '실습을 통한 학습' 접근 방식, 브라우저 내 대화형 온라인 환경에서 자동화된 단계별 확인, 스킬 트리 기반 시스템으로 구조화된 콘텐츠 구성, 30 개의 스킬 트리와 6,000 개 이상의 실험실을 포함하는 성장하는 학습 리소스로, LabEx 는 종합적인 실습 교육을 제공합니다. 플랫폼에는 최신 AI 모델을 기반으로 구축된 학습 도우미 Labby 가 포함되어 대화형 학습 경험을 제공합니다.
+[LabEx](https://labex.io) 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입니다. 실험실, AI 지원 및 가상 머신을 결합하여 비디오 없는 실용적인 학습 경험을 제공합니다. 비디오 없는 독점적인 실습 실험실로 엄격한 '실습을 통한 학습' 접근 방식, 브라우저 내 대화형 온라인 환경에서 자동화된 단계별 확인, 스킬 트리 기반 시스템으로 구조화된 콘텐츠 구성, 30 개의 스킬 트리와 6,000 개 이상의 실험실을 포함하는 성장하는 학습 리소스로, [LabEx](https://labex.io) 는 종합적인 실습 교육을 제공합니다. 플랫폼에는 최신 AI 모델을 기반으로 구축된 학습 도우미 Labby 가 포함되어 대화형 학습 경험을 제공합니다.
 
 ## 더 보기
 
